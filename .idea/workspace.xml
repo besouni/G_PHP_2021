@@ -6,10 +6,10 @@
       <change afterPath="$PROJECT_DIR$/week_4/blocks/footer.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week_4/blocks/header.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week_4/date.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_4/function.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week_4/page.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week_4/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_4/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/week_4/function.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <workItem from="1615645650106" duration="102000" />
       <workItem from="1615645764675" duration="5632000" />
       <workItem from="1615886640640" duration="989000" />
-      <workItem from="1616589261175" duration="4431000" />
+      <workItem from="1616589261175" duration="4809000" />
     </task>
     <task id="LOCAL-00001" summary="Week2">
       <created>1615385615439</created>

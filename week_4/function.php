@@ -1,3 +1,11 @@
+<style>
+    table{
+        width: 400px;
+        height: 300px;
+        border: solid 2px black;
+    }
+</style>
+
 <?php
 function f1(){
     echo "<h1>Function</h1>";
@@ -34,6 +42,21 @@ function f5($N){
 }
 echo "<hr>";
 echo f5(5);  //1*2*3*4*5=120  5*f5(4)
+
+
+
+function returnTable(){
+    $table = "<table>";
+        $table .= "<tr>";
+            $table .= "<td>";
+                $table .= rand(10, 20);
+            $table .= "<td>";
+        $table .= "<tr>";
+    $table .= "</table>";
+    return $table;
+}
+echo "<hr>";
+echo returnTable();
 
 
 
