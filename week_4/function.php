@@ -49,7 +49,7 @@ function returnTable(){
     $table = "<table>";
         $table .= "<tr>";
             $table .= "<td>";
-                $table .= rand(10, 20);
+                $table .= rand(10, 99);
             $table .= "<td>";
         $table .= "<tr>";
     $table .= "</table>";
