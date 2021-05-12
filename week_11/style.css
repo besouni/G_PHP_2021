@@ -1,0 +1,7 @@
+.category{
+    width: 500px;
+    margin: auto;
+    border:solid 2px grey;
+    padding: 10px;
+    margin-bottom: 10px;
+}
