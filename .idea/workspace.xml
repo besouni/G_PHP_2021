@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d95410c9-dae8-4f8d-a788-32a65ee80607" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week_11/actions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_11/actions/categories.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_11/actions/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_11/actions/insert.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_11/actions/update-form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_11/actions/update.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_11/db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_11/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_12/action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_12/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_12/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/week_11/actions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -94,7 +89,10 @@
       <workItem from="1619437134648" duration="143000" />
       <workItem from="1619614236361" duration="4498000" />
       <workItem from="1619620711273" duration="1052000" />
-      <workItem from="1620828316980" duration="2663000" />
+      <workItem from="1620828316980" duration="3070000" />
+      <workItem from="1621263592652" duration="78000" />
+      <workItem from="1621431687578" duration="38000" />
+      <workItem from="1621433663405" duration="1870000" />
     </task>
     <task id="LOCAL-00001" summary="Week2">
       <created>1615385615439</created>
